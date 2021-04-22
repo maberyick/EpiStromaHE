@@ -1,0 +1,6 @@
+model_checkpoint_path: "iter_29500_auc_sum_1.87"
+all_model_checkpoint_paths: "iter_17500_auc_sum_1.83"
+all_model_checkpoint_paths: "iter_19000_auc_sum_1.84"
+all_model_checkpoint_paths: "iter_22000_auc_sum_1.86"
+all_model_checkpoint_paths: "iter_22500_auc_sum_1.86"
+all_model_checkpoint_paths: "iter_29500_auc_sum_1.87"
